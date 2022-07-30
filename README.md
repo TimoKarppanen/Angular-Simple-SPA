@@ -1,3 +1,5 @@
+![angular_SPA](https://github.com/TimoKarppanen/Angular-Simple-SPA/blob/main/angular_SPA.PNG)
+
 # AngularRouterSample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
